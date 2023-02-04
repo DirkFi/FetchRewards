@@ -7,7 +7,7 @@ transactions.csv includes the original data that is listed in the question.
 ## Environment Setup
 To run a Python code, you need to install Anaconda first in order to install more modules or pacakages more conveniently.
 ### Install Anaconda
-Follow this [link](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/) to install.
+Follow this [link](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/) to install Anaconda in your computer.
 
 ### Install Python environment
 Use
